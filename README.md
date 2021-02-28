@@ -1,4 +1,4 @@
-#Reinforcement Learning
+Reinforcement Learning
 
 The idea of learning from delayed rewards is the foundation of q-learning.  The central idea is that a problem can have certain states and each state will have an action that will lead to either a reward or penalty or no change in total reward at all.  A Rubik's cube has 12 possible move to perform.  To randomly search to solve would take too much memory and time.  Also to iteratively search by only accepting the path which has the highest reward would require too much memory and time.  The best way is to use both strategies, to search both randomly and iteratively.  
 
