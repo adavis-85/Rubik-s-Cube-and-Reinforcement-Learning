@@ -16,6 +16,10 @@
  bottom=[6 6 6;6 6 6;6 6 6]
 
  cube=hcat(front,back,left,right,top,bottom)
+ 
+ 1  1  1  2  2  2  3  3  3  4  4  4  5  5  5  6  6  6
+ 1  1  1  2  2  2  3  3  3  4  4  4  5  5  5  6  6  6
+ 1  1  1  2  2  2  3  3  3  4  4  4  5  5  5  6  6  6
 
  ##The movement functions for the cube.  As the cube is in matrix form the possible moves are on each group of 
  ##3 by 3 matrices of the cube 
